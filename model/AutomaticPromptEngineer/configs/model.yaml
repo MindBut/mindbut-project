@@ -1,0 +1,34 @@
+generation:
+  num_demos: 1 
+  num_queries_per_subsample: 5
+  num_subsamples: 30
+  model: 
+    name: GPT
+    gpt_config: 
+      model: gpt-3.5-turbo-1106
+      temperature: 0.9
+      max_tokens: 1000
+      top_p: 0.9
+
+evaluation:
+  num_inputs: 1
+  num_queries_per_subsample: 3
+  num_subsamples: 20
+  model:
+    name: GPT
+    gpt_config:
+      model: gpt-3.5-turbo-1106
+      temperature: 0.7
+      max_tokens: 500
+      top_p: 1.0
+
+score:
+  num_queries_per_subsample: 1
+  model: 
+    name: GPT
+    gpt_config:
+      model: gpt-3.5-turbo
+      temperature: 0.7
+      max_tokens: 200
+      top_p: 1.0
+

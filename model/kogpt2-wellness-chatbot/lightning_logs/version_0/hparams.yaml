@@ -1,0 +1,11 @@
+accelerator: null
+batch_size: 96
+chat: false
+gpus: 1
+lr: 5.0e-05
+max_epochs: 5
+max_len: 128
+model_params: model_chp/last.ckpt
+sentiment: '2'
+train: true
+warmup_ratio: 0.1
