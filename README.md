@@ -3,6 +3,8 @@
 
 인지행동치료(CBT) 기반의 심리 상담 보조 서비스 프로젝트
 
+<img src="https://img.shields.io/badge/React Native-61DAFB?style=for-the-badge&logo=React&logoColor=white"> <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white"> <img src="https://img.shields.io/badge/OpenAI API-412991?style=for-the-badge&logo=OpenAI&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+
 ## Motivations
 대한민국 정신장애 실태
 - 정신장애 평생 유병률 약 **30%**
@@ -22,6 +24,19 @@ Needs
 해결방안: **"인지 행동 치료(CBT)"**
 - 심리적인 문제에 기여하는 **감정, 생각(인지), 행동 사이에는 밀접한 관련**이 있음
 - 환자 스스로 생각(인지)를 조절해 문제 본질을 파악하고 해결하는 훈련이 가능하도록 도움을 주는 전문 심리치료 방법
+
+## Features
+
+### 사용자 설문
+
+|![1](imgs/feat_1_1.png)|![2](imgs/feat_1_2.png)|![3](imgs/feat_1_3.png)|![4](imgs/feat_1_4.png)|
+|-|-|-|-|
+
+### 무드 트래킹 & 간편 상담
+
+|![1](imgs/feat_2_1.png)|![2](imgs/feat_2_2.png)|![3](imgs/feat_2_3.png)|![4](imgs/feat_2_4.png)|
+|-|-|-|-|
+|![5](imgs/feat_2_5.png)|![6](imgs/feat_2_6.png)|![7](imgs/feat_2_7.png)|![8](imgs/feat_2_8.png)|
 
 ## Team Members
 
