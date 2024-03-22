@@ -69,7 +69,7 @@
 
     <img src="imgs/006.png" alt="mood" />
 
-## Team Members
+## 팀 구성
 
 |이름|팀|역할|
 |-|-|-|
